@@ -1,5 +1,10 @@
 # Configurações para Android TV (Mibox e MiboxS)
 
+Configurações diversas para android tv.
+
+## Table of Contents
+1. [Incluir Botão 'MENU'](#Incluir-Botão-'MENU')
+
 ## Incluir Botão 'MENU'
 
 Passo 1.
