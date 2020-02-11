@@ -5,6 +5,7 @@ Configurações diversas para android tv.
 ## Table of Contents
 1. [Incluir Botão 'MENU'](#Incluir-Botão-'MENU')
 2. [Criar Atalhos com Icones](#Criar-Atalhos-com-Icones)
+3. [Alterar botões 'Netflix' e 'LiveTV'](#Incluir-Botão-'MENU')
 
 ## Incluir Botão 'MENU'
 
