@@ -10,7 +10,9 @@ Configurações diversas para android tv.
 
 Passo 1.
 Android 8 e 8.1: Na tela inicial vá em Configurações, desça até a opção 'Sobre'.
+
 Android 9:  Na tela inicial vá em Configurações, desça até a opção 'Preferencias do Dispositivo' e clique em 'Sobre'.
+
 Encontre pelo nome 'Número da versão' e toque repetidamente no botão central do controle até aparecer: Você é agora um desenvolvedor. 
 Pronto, depois disso, volte a tela de configurações e haverá a opção 'Opções de desenvolvedores". Entre nela e selecione 'Habilitar Depuração USB'.
 
@@ -31,6 +33,7 @@ Passo 5.
 ## Criar Atalhos com Ícones
 
 Para criar os ícones (imagens), utilize o site: https://www.norio.be/android-feature-graphic-generator/
+
 Para criar os atalhos, utilize o site: https://atvlauncher.trekgonewild.de/index.php
 
 Exemplos: 
