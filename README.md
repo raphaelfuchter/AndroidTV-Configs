@@ -4,6 +4,7 @@ Configurações diversas para android tv.
 
 ## Table of Contents
 1. [Incluir Botão 'MENU'](#Incluir-Botão-'MENU')
+2. [Criar Atalhos com Icones](#Criar-Atalhos-com-Icones)
 
 ## Incluir Botão 'MENU'
 
@@ -20,3 +21,17 @@ Instale o app 'Button Mapper' na sua AndroidTV: https://play.google.com/store/ap
 
 Passo 3.
 Instale o 'Remote ADB Shell' no seu celular: https://play.google.com/store/apps/details?id=com.cgutman.androidremotedebugger
+
+
+Passo 4.
+
+
+Passo 5.
+
+## Criar Atalhos com Ícones
+
+Para criar os ícones (imagens), utilize o site: https://www.norio.be/android-feature-graphic-generator/
+Para criar os atalhos, utilize o site: https://atvlauncher.trekgonewild.de/index.php
+
+Exemplos: 
+
