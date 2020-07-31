@@ -36,5 +36,5 @@ Para criar os banners (imagens), utilize o site: https://www.norio.be/android-fe
 
 Para criar os atalhos, utilize o site: https://atvlauncher.trekgonewild.de/index.php
 
-Exemplos: 
+Exemplos: https://github.com/raphaelfuchter/AndroidTV-Configs/tree/master/shortcuts
 
