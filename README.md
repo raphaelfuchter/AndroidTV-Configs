@@ -4,8 +4,7 @@ Configurações diversas para android tv.
 
 ## Table of Contents
 1. [Incluir Botão 'MENU'](#Incluir-Botão-'MENU')
-2. [Criar Atalhos com Icones](#Criar-Atalhos-com-Icones)
-3. [Alterar botões 'Netflix' e 'LiveTV'](#Incluir-Botão-'MENU')
+2. [Criar Atalhos com Banners](#Criar-Atalhos-com-Banners)
 
 ## Incluir Botão 'MENU'
 
@@ -31,9 +30,9 @@ Passo 4.
 
 Passo 5.
 
-## Criar Atalhos com Ícones
+## Criar Atalhos com Banners
 
-Para criar os ícones (imagens), utilize o site: https://www.norio.be/android-feature-graphic-generator/
+Para criar os banners (imagens), utilize o site: https://www.norio.be/android-feature-graphic-generator/
 
 Para criar os atalhos, utilize o site: https://atvlauncher.trekgonewild.de/index.php
 
